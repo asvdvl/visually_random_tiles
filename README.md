@@ -1,0 +1,1 @@
+This project was conceived as a mod that mixes all the textures in the game (for now only tiles), but in Factorio there is a very large variability in the mod API, then for tiles the picture is determined directly, then by a list, or it’s even an icon. For now the project is abandoned, and I don’t know whether I will return to it.

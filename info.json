@@ -1,12 +1,12 @@
 {
-    "title": "Visually Randomized Tiles",
-    "name": "visually_randomized_tiles",
+    "title": "Visually Randomized Textures",
+    "name": "visually_randomized_textures",
     "author": "asvdev(in game - Dial-up)",
     "factorio_version": "1.1",
     "version": "0.0.0",
     "dependencies": ["base >= 0.18.0"],
     "description": "mixes tile textures with each other",
-    "homepage": "https://github.com/asvdvl/visually_randomized_tiles",
+    "homepage": "https://github.com/asvdvl/visually_randomized_textures",
     "package":{
         "ignore":[
         ]
